@@ -21,8 +21,10 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="55" height="55"/>
+  </p>
+  <p align="left">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/>
 <img src="https://github.com/MiriamPaternain/MiriamPaternain/assets/130551425/93ad214b-de0d-4af4-a0f2-723dc97b31d6" alt="illustrator" width="55" height="55"/>
 <img src="https://github.com/MiriamPaternain/MiriamPaternain/assets/130551425/fea8a570-e0c6-4234-b36e-abce0a663b1f" alt="photoshop" width="55" height="55"/>
 <img src="https://github.com/MiriamPaternain/MiriamPaternain/assets/130551425/a521bdb7-028b-4909-b3a3-3468a1fa36ba" alt="indesing" width="55" height="55"/>
-</p>
+  </p>
